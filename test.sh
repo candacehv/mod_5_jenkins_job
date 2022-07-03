@@ -1,1 +1,1 @@
-echo "Testing out my first Jenkins job for mod 5 DevOps assignment."
+echo "Testing out my first Jenkins job for mod 5 DevOps assignment. Now make some changes."
